@@ -5,7 +5,7 @@ title: Home
 
 # Ben Smith
 
-Shifnal, England · 18smith.ben@gmail.com · [GitHub](https://github.com/18smi) · [LinkedIn](https://linkedin.com/in/yourprofile)
+Shifnal, England · 18smith.ben@gmail.com · [GitHub](https://github.com/18smi)
 
 ---
 
@@ -45,7 +45,7 @@ Highly motivated robotics student with a strong foundation in mechanical systems
 ## Skills
 
 - **Languages:** C, C++, python
-- **Tools:** Git, GitHub
+- **Tools:** Git, GitHub, arduino, PCB design and manufacture
 - **Soft Skills:** Technical Writing, Public Speaking, Project Management
 
 ## Projects
