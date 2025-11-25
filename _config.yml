@@ -1,1 +1,13 @@
-jhg
+title: "Ben Smith"
+description: "Robotics Student."
+theme: minima
+
+author:
+  name: "Ben Smith"
+  email: "18smith.ben@gmail.com"
+
+header_pages:
+  - index.md
+
+github_username: 18smi
+linkedin_username: your-linkedin-handle
